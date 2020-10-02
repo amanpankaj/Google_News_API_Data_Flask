@@ -4,9 +4,8 @@
 # "Author"              :   "rishabhzn200"                              #
 # "Date of Creation"    :   "Jan-03-2019"                               #
 # "Time of Creation"    :   "17:10"                                     #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # expand 
+expand the worksheet accroding to device
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from string import ascii_uppercase as au
